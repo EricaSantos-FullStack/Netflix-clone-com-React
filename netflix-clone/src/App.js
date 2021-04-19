@@ -7,10 +7,11 @@ export default () => {
 
     const loadAll = async () =>{
       let list = await Tmdb.getHomeList();
-      console.log(list)
+      console.log(list);
 
     }
-    
+    loadAll();
+  
   },[])
 
 
