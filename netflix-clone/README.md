@@ -1,8 +1,12 @@
 #Teste - 1 - No Git
 #Teste - 2 - No Git
 #Yametekudasai onii - chan
+<<<<<<< HEAD
+#teste
+=======
 #teste 
 #teste do haile
+>>>>>>> 07e684aa8304a48297f2623c1e496303a7951fc8
 
 # Getting Started with Create React App
 
