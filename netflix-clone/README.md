@@ -6,7 +6,7 @@
 =======
 #teste 
 #teste do haile
->>>>>>> 07e684aa8304a48297f2623c1e496303a7951fc8
+>>>>>>> 96e2c784b3879f1c4763096d293875e7
 
 # Getting Started with Create React App
 
