@@ -1,3 +1,4 @@
+/* eslint-disable import/no-anonymous-default-export */
 import React, {useEffect} from 'react';
 import Tmdb from './Tmdb';
 
